@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    user-select: none;
+}
+canvas{
+    margin: auto;
+    border: solid white 2px;
+}
+body{
+    background-color: #000000;
+}
+#instruktioner{
+    position: relative;
+    color: white;
+    left: 1030px;
+    width: 200px;
+    top: -530px;
+}
